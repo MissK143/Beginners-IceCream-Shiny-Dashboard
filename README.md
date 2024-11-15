@@ -5,6 +5,9 @@
 This Shiny app provides a dashboard for visualizing sales data from an ice cream chain. 
 Users can explore daily and weekly trends in revenue and quantity sold for each store across a specified date range.
 
+![Icecream Shiny Dashboard](https://github.com/user-attachments/assets/d84d5a65-9efb-4de1-9c1d-fad807d4b41f)
+
+
 ## Features
 
 - **Date Range Selector**: Filter data to a specific time period.
